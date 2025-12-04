@@ -1,21 +1,4 @@
 # Network-IDS-With-Email-Alerts-using-Python-Linux-Based
-Here is a **complete, professional, and detailed README.md** you can upload directly to GitHub for your *Network Intrusion Detection System (NIDS)* project.
-
-It includes:
-
-✔ Project description
-✔ Features
-✔ How it works
-✔ Installation steps
-✔ Usage
-✔ Full Python code (clean + formatted)
-✔ Output samples
-✔ Future scope
-✔ License
-
-You can copy–paste directly into **README.md**.
-
----
 
 # **📌 Network Intrusion Detection System (NIDS) using Python & tcpdump**
 
@@ -314,16 +297,8 @@ IP 192.168.1.50.51032 > 192.168.1.10.22: Flags [S], seq 123456789, win 64240
 
 ---
 
-# **📜 License**
 
-This project is open-source under the **MIT License**.
-Feel free to modify and improve.
 
----
-
-If you want, I can also create:
-
-✅ A **GitHub project description**
 ✅ A **systemd service file** so this NIDS runs automatically at startup
 ✅ A **logo** for your repository
 
