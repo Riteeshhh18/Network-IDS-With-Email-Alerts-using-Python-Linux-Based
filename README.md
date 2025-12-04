@@ -296,10 +296,3 @@ IP 192.168.1.50.51032 > 192.168.1.10.22: Flags [S], seq 123456789, win 64240
 * 🔁 Add systemd service for auto-start on boot
 
 ---
-
-
-
-✅ A **systemd service file** so this NIDS runs automatically at startup
-✅ A **logo** for your repository
-
-Just tell me!
